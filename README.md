@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Adokwei Okoe  
   
-## 🎓 Currently Majoring in Network and Cybersecurity  
+## 🎓 Currently Majoring in Networking and Cybersecurity  
 
 ---
 
